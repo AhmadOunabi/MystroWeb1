@@ -1,7 +1,6 @@
 * {
     font-family: 'Rubik', sans-serif;
 }
-
 .img{
     border-radius: 10px;
 }
@@ -16,4 +15,18 @@
 
 .btn:hover{
     background-color: green;
+}
+
+.shadow{
+    margin: 20px;
+}
+
+.card-img-top{
+    padding: 0px;
+    max-height: 300px;
+    min-height: 300px;
+}
+
+.python{
+    padding:60px
 }
