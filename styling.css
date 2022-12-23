@@ -1,0 +1,19 @@
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+.you {
+
+    margin-left: 50px;
+    margin-top: 70px;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    background-color: green;
+}
