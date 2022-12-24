@@ -18,7 +18,7 @@
 }
 
 .shadow{
-    margin: 20px;
+    margin: 0px;
     border-radius: 10px;
 }
 .card{
@@ -26,10 +26,8 @@
 }
 .card-img-top{
     padding: 0px;
-    max-height: 300px;
-    min-height: 300px;
-}
-
-.python{
-    padding:60px
+    max-height: 100px;
+    max-width: 100px;
+    min-height: 100px;
+    min-width: 100px;
 }
