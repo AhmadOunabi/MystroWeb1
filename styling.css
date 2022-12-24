@@ -19,8 +19,11 @@
 
 .shadow{
     margin: 20px;
+    border-radius: 10px;
 }
-
+.card{
+    border-radius: 10px;
+}
 .card-img-top{
     padding: 0px;
     max-height: 300px;
